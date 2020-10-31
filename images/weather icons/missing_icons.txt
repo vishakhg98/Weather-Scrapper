@@ -1,0 +1,6 @@
+Missing icons links + alt name will be added here automatically by the program
+Missing icons will be added in the next update
+
+
+<img alt="Mostly sunny" class="wob_tci" id="wob_tci" src="//ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"/>
+<img alt="Smoke" class="wob_tci" id="wob_tci" src="//ssl.gstatic.com/onebox/weather/64/fog.png"/>
